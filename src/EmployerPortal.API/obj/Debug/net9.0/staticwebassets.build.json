@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J8c9O+qlQp01blDILDcJe5+F1vpK3ka+IbZDUmbffMs=",
+  "Source": "EmployerPortal.API",
+  "BasePath": "_content/EmployerPortal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
